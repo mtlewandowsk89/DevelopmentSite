@@ -2,6 +2,10 @@ body {
 	background-image: url('/green-background.jpg');
 }
 
+a {
+	border-left: 1px solid #9D9D99;
+}
+
 .jumbotron {
 	opacity: 0.7;
 	padding: 20px;
@@ -16,3 +20,4 @@ body {
 .img-rounded {
 	margin-bottom: 10px;
 }
+
